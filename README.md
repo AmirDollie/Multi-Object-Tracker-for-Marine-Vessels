@@ -9,3 +9,5 @@ File a1 trains shipDetectorV1 which identifies the ships from one another (does 
 File a3 train the detector on a single class (ship) using YOLOX and an adam solver. 
 
 File a4 is the final output of the system, tracking multiple ships and associating ID's and velocity vectors.
+
+To download the video outputs, download the onedrive folder with password M@r1t1m3: https://uctcloud-my.sharepoint.com/:f:/g/personal/dllami004_myuct_ac_za/IgAU7fUjqsoZQ74M2-6ClDUnATT4MTytZAEgOfmUam7VxM8?e=Dfhgpg
