@@ -10,5 +10,9 @@ File a3 trains the detector on a single class (ship) using YOLOX and an adam sol
 
 File a4 is the final output of the system, tracking multiple ships and associating ID's and velocity vectors. It contains multiple iterations of the program, showing the new implementations and improvements made sequentially.
 
+gTruth_Right contains ground truth data for the right hand camera, labelling the individual ships by their number, ie identifies each ship from one another.
+
+gTruth_singleClass_ship contains ground truth data for the right hand camera, but labelling all ships as the same class 'ship'.
+
 To download the video outputs, download the onedrive folder with password M@r1t1m3: https://uctcloud-my.sharepoint.com/:f:/g/personal/dllami004_myuct_ac_za/IgAU7fUjqsoZQ74M2-6ClDUnATT4MTytZAEgOfmUam7VxM8?e=Dfhgpg
 
